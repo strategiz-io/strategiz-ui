@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Strategiz UI
+
+Clean UI implementation for the Strategiz platform, following best architectural practices.
+
+## Development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
